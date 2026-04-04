@@ -1,2 +1,1 @@
-# Engineering-Mentorship-Web
-Mühendisler ve öğrenciler için web tabanlı bilgi paylaşım ve mentörlük platformu (Geliştirme Aşamasında).
+Bu depo, mühendisler ve mühendislik öğrencileri arasında bilgi paylaşımını ve mentörlük süreçlerini dijitalleştirmeyi hedefleyen web tabanlı platformun geliştirme dosyalarını içermektedir. Projenin arayüz ve veritabanı mimarisi için HTML, CSS, PHP ve SQL teknolojileri kullanılarak Ar-Ge ve tasarım süreçleri devam etmektedir.
